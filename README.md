@@ -9,7 +9,8 @@ Title: Savings Account Management System
 Programming Language: C++
 
 Project Authors: 
-        Syed Muhammad Hasan (2540040)
+        
+		Syed Muhammad Hasan (2540040)
        
 		Ayaan Asim (2540051)
        
